@@ -8,9 +8,9 @@
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)
   - [Monitordn.sh-Monitorup.sh code](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
 - <b>Staying Anonymous with ProxyChains</b>
-  - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
+  - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i></b></i>
 - <b>Active Directory Lab</b>
-  - [Active Directory Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
+  - [Active Directory Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i></b></i>
 
 <h2>✨Portfolio:</h2>
 - <b>About Me</b>
