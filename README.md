@@ -4,6 +4,7 @@
 
 - <b>Wi-Fi Security Lab: WPA2 Cracking</b>
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)
+  - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)       - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)
 - <b>Staying Anonymous with ProxyChains</b>
   - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
