@@ -5,7 +5,7 @@
 - <b>Wi-Fi Security Lab: WPA2 Cracking</b>
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)
 - <b>Staying Anonymous with ProxyChains</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
