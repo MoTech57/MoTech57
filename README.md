@@ -9,8 +9,8 @@
   - [Monitordn.sh-Monitorup.sh code](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
 - <b>Staying Anonymous with ProxyChains</b>
   - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
-  - <b>Staying Anonymous with ProxyChains</b>
-  - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
+- <b>Staying Anonymous with ProxyChains</b>
+  - [Active Directory Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i>(Potentially NSFW)</b></i>
 
 <h2>✨Portfolio:</h2>
 - <b>About Me</b>
