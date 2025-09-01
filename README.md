@@ -4,14 +4,14 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Wi-Fi Security Lab: WPA2 Cracking</b>
+- <b>Wi-Fi Security Lab: WPA2 Cracking 🔒</b>
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)
   - [Monitordn.sh-Monitorup.sh code](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
-- <b>Staying Anonymous with ProxyChains</b>
+- <b>Staying Anonymous with ProxyChains 👻</b>
   - [Staying Anonymous](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i></b></i>
-- <b>Active Directory Lab</b>
+- <b>Active Directory Lab 💻</b>
   - [Active Directory Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i></b></i>
-- <b>Key Logger</b>
+- <b>Key Logger ⚠️</b>
   - [Active Directory Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains) <b><i></b></i>
 
 
