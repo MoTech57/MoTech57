@@ -4,15 +4,24 @@
 
 ---
 
-<h2>✨ About Me</h2>
+<h2>🎯 Job Objective</h2>
 
-Passionate and detail-oriented **Cybersecurity Professional** with hands-on experience in penetration testing, system administration, and network defense. I enjoy building home labs to practice both **offensive (red team)** and **defensive (blue team)** security concepts, and I document my projects to showcase practical skills.  
+Motivated **Cybersecurity Professional** with hands-on experience in penetration testing, system defense, and network administration. I am seeking opportunities in **cybersecurity operations, penetration testing, or SOC analyst roles** where I can apply my skills to protect systems and grow into advanced security positions.  
 
 ---
 
-<h2>🎯 Career Objective</h2>
+<h2>🛠 Tools & Skills</h2>
 
-To leverage my skills in **cybersecurity operations, vulnerability management, and threat detection** to secure organizational networks and data while continuing to grow as a security professional.  
+- Nmap  
+- Metasploit  
+- ProxyChains / Tor  
+- Wireshark  
+- Burp Suite  
+- SQL  
+- Splunk  
+- Linux (Ubuntu, Kali)  
+- Windows Server & Active Directory  
+- Python & Bash  
 
 ---
 
@@ -20,66 +29,49 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 - CompTIA Network+  
 - CompTIA Security+  
+*(More in progress – space for future certifications)*  
 
 ---
 
-<h2>🛠 Tools & Technologies</h2>
+<h2>👨‍💻 Cyber Security Projects</h2>
 
-- **Security & Networking:** Nmap, Metasploit, ProxyChains, Wireshark, Burp Suite, Netcat  
-- **Platforms:** Linux (Ubuntu/Kali), Windows Server & Client  
-- **Monitoring & SIEM:** Splunk, ELK Stack  
-- **Programming & Scripting:** Python, Bash, SQL  
+- **Wi-Fi Security Lab: WPA2 Cracking 🔒**  
+  [Hands-on lab demonstrating WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
 
----
+- **Staying Anonymous with ProxyChains 👻**  
+  [Anonymous scanning & Tor routing lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)  
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+- **Active Directory Lab 💻**  
+  [Enterprise domain setup & attack/defense scenarios](https://github.com/MoTech57/Active-Directory-Lab)  
 
-- <b>Wi-Fi Security Lab: WPA2 Cracking 🔒</b>  
-  - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
-  - [Monitor mode automation scripts](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
+- **Keylogger - Red vs. Blue Team ⚠️**  
+  [Keylogger detection & response lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)  
 
-- <b>Staying Anonymous with ProxyChains 👻</b>  
-  - [Staying Anonymous Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)  
+- **Metasploit Exploitation Lab 💥**  
+  *(To be uploaded)*  
 
-- <b>Active Directory Lab 💻</b>  
-  - [Active Directory Lab](https://github.com/MoTech57/Active-Directory-Lab)  
-
-- <b>Keylogger - Red vs. Blue Team ⚠️</b>  
-  - [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)  
-
-- <b>Metasploit Exploitation Lab 💥</b>  
-  - *(coming soon)*  
-
-- <b>SQL Injection Attack & Defense Lab 🗄️</b>  
-  - *(coming soon)*  
+- **SQL Injection Attack & Defense Lab 🗄️**  
+  *(To be uploaded)*  
 
 ---
 
 <h2>🏠 Home Lab</h2>
 
-I’ve built a dedicated **home lab** environment to simulate enterprise systems and practice penetration testing and defense strategies.  
-*(Insert screenshot or network diagram here)*  
+Building a **dedicated cybersecurity home lab** for continuous learning and experimentation.  
+- Virtualized environments with **Ubuntu, Kali Linux, and Windows Server**  
+- Configured Active Directory, SIEM (Splunk), and attack/defense networks  
+- Used for projects including penetration testing, network monitoring, and threat detection  
+
+📸 *[Placeholder: Add screenshots/photos of your lab setup here]*  
 
 ---
 
-<h2>💼 Career Interests</h2>
-
-I am seeking opportunities in:  
-- Cybersecurity Analyst / SOC Analyst  
-- Security Operations & Monitoring  
-- Vulnerability Management / Threat Hunting  
-- IT Security Specialist  
-
----
-
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="Moise | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Moise | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
-[<img align="left" alt="Moise | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
 <br/>
 
-[twitter]: https://twitter.com/  
 [linkedin]: https://linkedin.com/in/  
 [github]: https://github.com/MoTech57
