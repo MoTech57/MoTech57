@@ -19,7 +19,9 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 <h2>📜 Certifications</h2>
 
 - CompTIA Network+  
-- CompTIA Security+  
+- CompTIA Security+
+- TryHackMe
+- NDG Linux
 
 ---
 
