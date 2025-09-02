@@ -40,7 +40,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 - <b>Staying Anonymous with ProxyChains and VPN👻</b>  
   - [Staying Anonymous with ProxyChains](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)
-  - [Staying Anonymous with VPN](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)  
+  - [Staying Anonymous with VPN](https://github.com/MoTech57/Staying-Anonymous-with-VPN/blob/main/README.md)  
 
 
 - <b>Active Directory Lab 💻</b>  
