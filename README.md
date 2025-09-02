@@ -38,8 +38,10 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
   - [Monitor mode automation scripts](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
 
-- <b>Staying Anonymous with ProxyChains 👻</b>  
-  - [Staying Anonymous Lab](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)  
+- <b>Staying Anonymous with ProxyChains and VPN👻</b>  
+  - [Staying Anonymous with ProxyChains](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)
+  - [Staying Anonymous with VPN](https://github.com/MoTech57/Staying-Anonymous-with-ProxyChains)  
+
 
 - <b>Active Directory Lab 💻</b>  
   - [Active Directory Lab](https://github.com/MoTech57/Active-Directory-Lab)  
