@@ -59,6 +59,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 I’ve built a dedicated **home lab** environment to simulate enterprise systems and practice penetration testing and defense strategies.  
 *(Insert screenshot or network diagram here)*  
+<img src="https://i.imgur.com/CBYowwU.jpeg" height="80%," width="30%" alt="Installing PyInstaller"/>  
 
 ---
 
