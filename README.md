@@ -52,7 +52,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
   - [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)  
 
 💥 <b>Metasploit Exploitation and Nmap Port Scan Lab 💥</b>  
-  - [https://github.com/MoTech57/MoTech57-Metasploit-Exploitation-and-Nmap-Port-Scan-Lab-]  
+  - [Metasploit and Nmap Lab](https://github.com/MoTech57/MoTech57-Metasploit-Exploitation-and-Nmap-Port-Scan-Lab-)  
 
 🗄️<b>SQL Injection Attack & Defense Lab 🗄️</b>  
   - *(coming soon)*  
