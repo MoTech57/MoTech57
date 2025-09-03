@@ -36,7 +36,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Wi-Fi Security Lab: WPA2 Cracking 🔒</b>  
+🔒 <b>Wi-Fi Security Lab: WPA2 Cracking 🔒</b>  
   - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
   - [Monitor mode automation scripts](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)     
 
@@ -45,16 +45,16 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
   - [Staying Anonymous with VPN](https://github.com/MoTech57/Staying-Anonymous-with-VPN/blob/main/README.md)  
 
 
-- <b>Active Directory Lab and Splunk threat detection 💻</b>  
+ 💻 <b>Active Directory Lab and Splunk threat detection 💻</b>  
   - [Active Directory Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)  
 
-- <b>Keylogger - Red vs. Blue Team ⚠️</b>  
+⚠️ <b>Keylogger - Red vs. Blue Team ⚠️</b>  
   - [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)  
 
-- <b>Metasploit Exploitation and Nmap Port Scan Lab 💥</b>  
+💥 <b>Metasploit Exploitation and Nmap Port Scan Lab 💥</b>  
   - *(coming soon)*  
 
-- <b>SQL Injection Attack & Defense Lab 🗄️</b>  
+🗄️<b>SQL Injection Attack & Defense Lab 🗄️</b>  
   - *(coming soon)*  
 
 ---
