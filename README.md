@@ -45,7 +45,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
   - [Staying Anonymous with VPN](https://github.com/MoTech57/Staying-Anonymous-with-VPN/blob/main/README.md)  
 
 
-- <b>Active Directory Lab 💻</b>  
+- <b>Active Directory Lab and Splunk threat detection 💻</b>  
   - [Active Directory Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)  
 
 - <b>Keylogger - Red vs. Blue Team ⚠️</b>  
