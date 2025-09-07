@@ -36,6 +36,12 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 ## 👨‍💻 Cybersecurity Projects  
 
+💻 **Active Directory Lab and Splunk Threat Detection**  
+- [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)
+
+🐽 **Network Intrusion Detection Systems (SNORT) Lab**  
+- [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab) 
+
 🔒 **Wi-Fi Security Lab: WPA2 Cracking**  
 - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
 - [Monitor mode automation scripts](https://github.com/MoTech57/Enable-Mointor-Managed-Mode-/tree/main)  
@@ -48,10 +54,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 - [Metasploit & Nmap Lab](https://github.com/MoTech57/MoTech57-Metasploit-Exploitation-and-Nmap-Port-Scan-Lab-)  
 
 ⚠️ **Keylogger - Red vs. Blue Team**  
-- [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)  
-
-💻 **Active Directory Lab and Splunk Threat Detection**  
-- [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)  
+- [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)    
 
 🗄️ **SQL Injection Attack & Defense Lab** *(coming soon)*  
 
