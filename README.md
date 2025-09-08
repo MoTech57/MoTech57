@@ -26,7 +26,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 ## 🛠 Tools & Technologies  
 
-- **Security & Networking:** Nmap, Metasploit, ProxyChains, Tor, Wireshark, Burp Suite, Netcat  
+- **Security & Networking:** Nmap, Metasploit, ProxyChains, Tor, Wireshark, Burp Suite, Netcat, SQLmap  
 - **Platforms:** Linux (Ubuntu/Kali/Fedora), Windows Server & Client, VMware, VirtualBox, Vultr Cloud  
 - **Monitoring & SIEM:** Splunk, ELK Stack, Shuffle (SOAR), Slack (SOC alerts)  
 - **Programming & Scripting:** Python (pynput, PyInstaller), Bash, SQL, PowerShell  
