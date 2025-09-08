@@ -36,6 +36,9 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 
 ## 👨‍💻 Cybersecurity Projects  
 
+🗄️ **SQL Injection Attack & Defense Lab (Burp Suite + Sqlmap)** 
+- [SQL Injection](https://github.com/MoTech57/SQL-Injection-Lab/edit/main/README.md)
+
 💻 **Active Directory Lab and Splunk Threat Detection**  
 - [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)
 
@@ -56,7 +59,6 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 ⚠️ **Keylogger - Red vs. Blue Team**  
 - [Keylogger Lab](https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team)    
 
-🗄️ **SQL Injection Attack & Defense Lab** *(coming soon)*  
 
 ---
 
