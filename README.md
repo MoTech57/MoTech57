@@ -40,7 +40,7 @@ To leverage my skills in **cybersecurity operations, vulnerability management, a
 - [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab)
 
 🐽 **Network Intrusion Detection Systems (SNORT) Lab**  
-- [Active Directory Monitoring Lab](https://github.com/MoTech57/Active-Directory-Monitoring-Lab) 
+- [Intrusion-Detection-Systems-SNORT](https://github.com/MoTech57/Intrusion-Detection-Systems-SNORT-/blob/main/README.md) 
 
 🔒 **Wi-Fi Security Lab: WPA2 Cracking**  
 - [Hands-on lab to demonstrate WPA2 vulnerabilities](https://github.com/MoTech57/WiFi-Security-Lab-WPA2-Cracking-/tree/main)  
