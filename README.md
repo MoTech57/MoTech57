@@ -50,13 +50,15 @@ Leverage skills in cybersecurity operations, vulnerability management, and threa
 ### Metasploit & Nmap Port Scanning Lab
 - Performed reconnaissance and exploitation in isolated lab VMs (Metasploitable / Kali).
 - Practiced post-exploitation basics and safe reporting.
-- Repo:([https://github.com/MoTech57/Intrusion-Detection-Systems-SNORT-](https://github.com/MoTech57/MoTech57-Metasploit-Exploitation-and-Nmap-Port-Scan-Lab-))
+- Repo:(https://github.com/MoTech57/MoTech57-Metasploit-Exploitation-and-Nmap-Port-Scan-Lab-))
 
 ### Wi-Fi Security Lab — WPA2 Cracking & Automation
 - Tested WPA2 weaknesses in a controlled environment, automated monitor mode and capture workflows with scripts.
+- https://github.com/MoTech57?tab=repositories
 
 ### Keylogger — Red vs Blue Team Simulation
 - Implemented a proof-of-concept keylogger in a contained lab, then created detection and mitigation tactics for defenders.
+- https://github.com/MoTech57/Keylogger-Red-vs-Blue-Team
 
 
 ---
